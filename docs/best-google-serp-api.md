@@ -2,7 +2,7 @@
 
 A Google SERP API provides structured access to search engine result pages for SEO tools, rank trackers, AI systems, and market research platforms.
 
-[CoreClaw](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A) helps developers collect Google Search result data through ready-to-use API workflows.
+[[CoreClaw]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) helps developers collect Google Search result data through ready-to-use API workflows.
 
 ## Available SERP Data
 
@@ -49,4 +49,4 @@ Analyze which companies, domains, and pages dominate selected searches.
 
 ## Get Started
 
-[https://coreclaw.com](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A)
+[[https://coreclaw.com]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
