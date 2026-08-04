@@ -2,7 +2,7 @@
 
 A Google Ads scraper collects publicly displayed sponsored search results for selected keywords.
 
-[CoreClaw](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A) can help marketing and research teams analyze advertisers, ad copy, landing pages, and sponsored search visibility.
+[[CoreClaw]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) can help marketing and research teams analyze advertisers, ad copy, landing pages, and sponsored search visibility.
 
 ## Available Ad Data
 
@@ -49,4 +49,4 @@ Estimate commercial activity around target keywords and industries.
 
 ## Get Started
 
-[https://coreclaw.com](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A)
+[[https://coreclaw.com]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
