@@ -2,7 +2,7 @@
 
 > Looking for the **best Google Search scraper**?
 
-[CoreClaw](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A) provides ready-to-use Google Search data tools and APIs for extracting organic results, ads, featured snippets, related searches, knowledge panels, and structured SERP data without maintaining custom scraping infrastructure.
+[[CoreClaw] ](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)provides ready-to-use Google Search data tools and APIs for extracting organic results, ads, featured snippets, related searches, knowledge panels, and structured SERP data without maintaining custom scraping infrastructure.
 
 ---
 
@@ -23,7 +23,7 @@ Google Search data supports a wide range of SEO, marketing, research, and automa
 
 ## 🏆 Why CoreClaw?
 
-[CoreClaw](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A) provides ready-to-use Google Search data collection tools for developers, SEO teams, agencies, and AI builders.
+[[CoreClaw]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides ready-to-use Google Search data collection tools for developers, SEO teams, agencies, and AI builders.
 
 - No custom scraper development
 - No browser maintenance
@@ -162,7 +162,7 @@ CoreClaw Google Search tools are suitable for:
 
 ## Get Started
 
-🌍[ https://coreclaw.com](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A)
+🌍[[ https://coreclaw.com]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
 
 Create a free account and receive free credits to test available Google Search data tools.
 
