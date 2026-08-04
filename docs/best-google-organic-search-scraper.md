@@ -2,7 +2,7 @@
 
 A Google organic search scraper collects structured public search results for selected keywords, locations, languages, and devices.
 
-[CoreClaw](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A) provides ready-to-use Google Search data tools without requiring users to build and maintain custom search result scrapers.
+[[CoreClaw] ](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)provides ready-to-use Google Search data tools without requiring users to build and maintain custom search result scrapers.
 
 ## Available Organic Search Data
 
@@ -51,4 +51,4 @@ Compare search result landscapes across industries, countries, and languages.
 
 ## Get Started
 
-[https://coreclaw.com](https://www.coreclaw.com/?utm_source=reddit&utm_medium=cpc&utm_campaign=A&utm_term=&utm_id=A)
+[[https://coreclaw.com]](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
